@@ -1,0 +1,48 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 02 Apr 2022 23:43:19 at https://sofiyansaboor.wixsite.com/excellence +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sofiyansaboor.wixsite.com/excellence -O1 "E:\current projects\excellence graphix\github repo\excellence" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:43:39	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/decodeURIComponent(e (from https://sofiyansaboor.wixsite.com/excellence)
+23:43:39	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/sitemap.xml (from https://sofiyansaboor.wixsite.com/excellence)
+23:43:39	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/feed.xml (from https://sofiyansaboor.wixsite.com/excellence)
+23:43:39	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/ (from https://sofiyansaboor.wixsite.com/excellence)
+23:43:39	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/version/ (from https://sofiyansaboor.wixsite.com/excellence)
+23:43:39	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/16e44c05.min.css (from https://sofiyansaboor.wixsite.com/excellence)
+23:43:39	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/b604fd33.min.css (from https://sofiyansaboor.wixsite.com/excellence)
+23:43:39	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/7c602eb2.min.css (from https://sofiyansaboor.wixsite.com/excellence)
+23:43:39	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/5b26625f.min.css (from https://sofiyansaboor.wixsite.com/excellence)
+23:43:39	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/34b72cf9.min.css (from https://sofiyansaboor.wixsite.com/excellence)
+23:43:39	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/eb6d72f5.chunk.min.js (from https://sofiyansaboor.wixsite.com/excellence)
+23:43:39	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/57dff8a2.chunk.min.js (from https://sofiyansaboor.wixsite.com/excellence)
+23:43:39	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/rb_wixui.thunderbolt~bootstrap.1e1f34f1.chunk.min.js (from https://sofiyansaboor.wixsite.com/excellence)
+23:43:39	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/rb_wixui.thunderbolt~bootstrap-classic.89bdd4d4.chunk.min.css (from https://sofiyansaboor.wixsite.com/excellence)
+23:43:39	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/rb_wixui.thunderbolt~bootstrap-classic.eb6d72f5.chunk.min.js (from https://sofiyansaboor.wixsite.com/excellence)
+23:43:39	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/rb_wixui.thunderbolt~bootstrap-responsive.a66c1914.chunk.min.css (from https://sofiyansaboor.wixsite.com/excellence)
+23:43:39	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/rb_wixui.thunderbolt~bootstrap-responsive.57dff8a2.chunk.min.js (from https://sofiyansaboor.wixsite.com/excellence)
+23:43:39	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/rb_wixui.thunderbolt~common-site-members-dialogs.e6a271c3.chunk.min.css (from https://sofiyansaboor.wixsite.com/excellence)
+23:43:39	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/rb_wixui.thunderbolt~common-site-members-dialogs.11ecf12c.chunk.min.js (from https://sofiyansaboor.wixsite.com/excellence)
+23:43:49	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/excellence/decodeURIComponent(e (from https://sofiyansaboor.wixsite.com/excellence/about-us)
+23:43:49	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/excellence/robots.txt (from https://sofiyansaboor.wixsite.com/excellence/about-us)
+23:43:49	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/excellence/feed.xml (from https://sofiyansaboor.wixsite.com/excellence/about-us)
+23:43:49	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/excellence/version/ (from https://sofiyansaboor.wixsite.com/excellence/about-us)
+23:43:49	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/excellence/16e44c05.min.css (from https://sofiyansaboor.wixsite.com/excellence/about-us)
+23:43:49	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/excellence/b604fd33.min.css (from https://sofiyansaboor.wixsite.com/excellence/about-us)
+23:43:49	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/excellence/7c602eb2.min.css (from https://sofiyansaboor.wixsite.com/excellence/about-us)
+23:43:49	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/excellence/5b26625f.min.css (from https://sofiyansaboor.wixsite.com/excellence/about-us)
+23:43:49	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/excellence/34b72cf9.min.css (from https://sofiyansaboor.wixsite.com/excellence/about-us)
+23:43:49	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/excellence/eb6d72f5.chunk.min.js (from https://sofiyansaboor.wixsite.com/excellence/about-us)
+23:43:49	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/excellence/57dff8a2.chunk.min.js (from https://sofiyansaboor.wixsite.com/excellence/about-us)
+23:43:49	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/excellence/rb_wixui.thunderbolt~bootstrap.1e1f34f1.chunk.min.js (from https://sofiyansaboor.wixsite.com/excellence/about-us)
+23:43:49	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/excellence/rb_wixui.thunderbolt~bootstrap-classic.89bdd4d4.chunk.min.css (from https://sofiyansaboor.wixsite.com/excellence/about-us)
+23:43:49	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/excellence/rb_wixui.thunderbolt~bootstrap-classic.eb6d72f5.chunk.min.js (from https://sofiyansaboor.wixsite.com/excellence/about-us)
+23:43:49	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/excellence/rb_wixui.thunderbolt~bootstrap-responsive.a66c1914.chunk.min.css (from https://sofiyansaboor.wixsite.com/excellence/about-us)
+23:43:49	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/excellence/rb_wixui.thunderbolt~bootstrap-responsive.57dff8a2.chunk.min.js (from https://sofiyansaboor.wixsite.com/excellence/about-us)
+23:43:49	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/excellence/rb_wixui.thunderbolt~common-site-members-dialogs.e6a271c3.chunk.min.css (from https://sofiyansaboor.wixsite.com/excellence/about-us)
+23:43:49	Error: 	"Not Found" (404) at link https://sofiyansaboor.wixsite.com/excellence/rb_wixui.thunderbolt~common-site-members-dialogs.11ecf12c.chunk.min.js (from https://sofiyansaboor.wixsite.com/excellence/about-us)
+
+HTTrack Website Copier/3.49-2 mirror complete in 30 seconds : 100 links scanned, 62 files written (4202116 bytes overall) [1921455 bytes received at 64048 bytes/sec], 3283177 bytes transferred using HTTP compression in 55 files, ratio 24%, 6.6 requests per connection
+(37 errors, 0 warnings, 0 messages)
